@@ -16,3 +16,11 @@ Python · pandas · numpy · scikit-learn · matplotlib · seaborn · joblib
 pip install pandas numpy scikit-learn matplotlib seaborn joblib
 python spam_classifier.py     # trains and saves model
 python predict.py             # test messages interactively
+```
+
+---
+
+## 📊 Results
+
+Results: Achieved ~97% accuracy with confusion matrix and classification report generated during training. Open-source and free to use.
+<img width="1200" height="683" alt="image" src="https://github.com/user-attachments/assets/0b104c28-afea-42a9-87be-898a4da63bdd" />
